@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harry044
+- 👋 Hi, I’m @Harish Kumar(Harry) 
 - 👀 I’m interested in Data Science. 
 - 🌱 I’m currently learning DSA.
 - 📫 How to reach me : mr.harishgrewal514@gmail.com
